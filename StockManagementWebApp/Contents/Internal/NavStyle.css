@@ -1,0 +1,127 @@
+﻿nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 90%;
+            height: 50px;
+            padding: 5px 100px;
+            transition: .3s;
+            background: black;
+        }
+
+            nav.black {
+                background: rgba(0,0,0,.8);
+                width: 90%;
+                height: 50px;
+                padding: 10px 100px;
+            }
+
+            nav .logo {
+                padding: 0px 5px;
+                height: 30px;
+                float: left;
+                color: #fff;
+                font-family: 'Abel', sans-serif;
+                font-size: 30px;
+                transition: .3s;
+                margin-left: 30px;
+            }
+
+            nav ul {
+                list-style: none;
+                float: right;
+                margin: 0;
+                padding: 0;
+                display: flex;
+            }
+
+                nav ul li {
+                    list-style: none;
+                }
+
+                    nav ul li a {
+                        line-height: 60px;
+                        color: #fff;
+                        padding: 12px 12px;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        font-family: 'Abel', sans-serif;
+                        font-size: 16px;
+                        font-weight: bold;
+                        transition: .3s;
+                    }
+
+                        nav ul li a:hover {
+                            color: cyan;
+                        }
+
+            nav.black ul li a {
+                color: #fff;
+            }
+
+
+            nav ul li a:focus {
+                outline: none;
+            }
+
+            nav ul li a.active {
+                background: #4268B2;
+                color: #fff;
+                border-radius: 6px;
+                font-size: 12px;
+                font-weight: bold;
+            }
+
+                nav ul li a.active:hover {
+                    background: blue;
+                }
+
+        .img-stock {
+            width: 40px;
+            height: 40px;
+            margin-right: 0px;
+            position: absolute;
+            top: 5px;
+            left: 90px;
+        }
+
+        .sect {
+            height: 100%;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        /*.bw-gradient {
+            width: 100%;
+            height: 584px;
+            position: absolute;
+            padding: 0;
+            margin: 0;
+            top: 0;
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&1+5,0+100 */
+            /* FF3.6-15 */
+            /* Chrome10-25,Safari5.1-6 */
+            /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 );
+            left: 0px;
+        }*/
+       
+            .active {
+                background: #4268B2;
+                color: #fff;
+                border-radius: 4px;
+                font-family: 'Abel', sans-serif;
+                font-size: 14px;
+                font-weight: bold;
+                height: 35px;
+                width: 80px;
+                border: 1px solid #4268B2;
+                margin-top: 10px;
+            }
+
+               .active:hover {
+                    background: #0000cd;
+                }
+       
+    </style>

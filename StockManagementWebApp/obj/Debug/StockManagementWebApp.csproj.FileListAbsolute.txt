@@ -1,0 +1,13 @@
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\bin\itextsharp.dll
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM TASKS\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\Batch-19\StockManagementBugLessWebAppBugWarrior\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb

@@ -1,0 +1,1 @@
+﻿('#dateTimeToTextBox').datepicker({ dateFormat: 'mm/dd/yyyy' });
