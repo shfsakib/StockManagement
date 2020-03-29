@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <link rel="Shortcut icon" href="/images/icon.ico" type="image/x-icon" />
-
+    <script src="../javascript/style.js"></script>
     <title>Stock Management</title>
     <style>
         * {

@@ -135,6 +135,7 @@
     <Content Include="images\team2.jpg" />
     <Content Include="javascript\jquery-3.2.1.js" />
     <Content Include="javascript\jQuery.dataTable.min.js" />
+    <Content Include="javascript\style.js" />
     <Content Include="Scripts\bootstrap-datepicker.js" />
     <Content Include="Scripts\bootstrap-datepicker.min.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />

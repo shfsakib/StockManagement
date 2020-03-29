@@ -89,7 +89,7 @@ namespace StockManagementWebApp.UI
         private void CreateRow()
         {
             if (itemDropDownList.Text!="Select a Item")
-            CheckRow(Convert.ToInt64(itemDropDownList.Text));
+            CheckRow(Convert.ToInt64(itemDropDownList.Text));   
             dataTable = new DataTable();
             dataTable = (DataTable)ViewState["dataGrid"];
 

@@ -8,6 +8,7 @@
     <title>Stock Management</title>
     <link href="/fonts/" rel="stylesheet">
     <script src="javascript/Jquery_3.1.1.js"></script>
+    <script src="../javascript/style.js"></script>
     <style>
         * {
             margin: 0;
